@@ -15,3 +15,5 @@ Materials:
 Week 1 of Experiment:
 - Order of procedure: tagging, massing, carapace measurements, righting time, respiration start, haemolymph extraction, respiration end
 - Notes: crab labeled yellow 1 tried to kill other crabs, yellow 1 was used for a baseline haemolypmh extraction and blue 5 took its place as an experimental crab. Several crabs lifted themselves out of the well plates during respiration periodically, which may impact respiration values. 60mL of resazurin was needed to submerge EGCs for respiration. Osmolality measurements were 983 and 933 mmol/L. Blue numbered crabs were put in 15ppt, green numbered crabs were put in 35ppt, and yellow numbered crabs were put in 45ppt.
+
+Google sheet URL: https://docs.google.com/spreadsheets/d/1AWmyi8VyECOfGW4K9d8peuCl-isvbY_9NeB3I0kaD5k/edit?usp=sharing
